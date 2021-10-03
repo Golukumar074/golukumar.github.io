@@ -11,7 +11,7 @@ html{
     overflow-x: hidden;
 }
 body{
-    background-color: #111;
+    background-color: #000080;
     overflow: hidden;
     padding-left: 35rem;
 }
@@ -109,14 +109,14 @@ header .nv ul li a{
     display: block;
     padding: 1rem;
     margin: 1.5rem 0;
-    background: #333;
-    color: #fff;
+    background: #e6e6fa;
+    color: #191970;
     font-size: 2rem;
     border-radius: 5rem;
     text-decoration: none;  
 }
 header .nv ul li a:hover{
-    background-color:yellowgreen;
+    background-color:lime;
 }
 
 .Details .Row{
